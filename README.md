@@ -4,6 +4,8 @@ I tend to learn by picking something slightly above my level and refusing to lea
 
 Most of what I build lives somewhere between **software, hardware, CAD and stubborn curiosity**. I’m less interested in collecting technologies for a list than in understanding a system well enough to make something real with it.
 
+My background is a slightly unusual mix of **philosophy and IT** — I hold a Bachelor's degree in Philosophy and have a technical background in IT. That probably explains why I enjoy both abstract problems and making concrete things work.
+
 ### A few things I've built or contributed to
 
 - **[Interactive Fractal Generator](https://github.com/Naurder/Interactive-Fractal-Generator)** — a Python / PyQt5 desktop app for generating and exploring fractal trees in real time.
